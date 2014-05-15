@@ -1,4 +1,3 @@
+# keiono.github.io
 
-# Blog
-
-The default [wintersmith](https://github.com/jnordberg/wintersmith) template
+Template for [wintersmith](https://github.com/jnordberg/wintersmith).

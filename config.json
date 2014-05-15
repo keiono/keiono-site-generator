@@ -1,26 +1,27 @@
 {
-  "locals": {
-    "url": "http://localhost:8080",
-    "name": "The Wintersmith's blog",
-    "owner": "Someone",
-    "description": "Ramblings of an immor(t)al demigod"
-  },
-  "plugins": [
-    "./plugins/paginator.coffee"
-  ],
-  "require": {
-    "moment": "moment",
-    "_": "underscore",
-    "typogr": "typogr"
-  },
-  "jade": {
-    "pretty": true
-  },
-  "markdown": {
-    "smartLists": true,
-    "smartypants": true
-  },
-  "paginator": {
-    "perPage": 3
-  }
+    "output": "../keiono.github.io/",
+    "locals": {
+        "url": "http://localhost:8000",
+        "name": "Viz / Code",
+        "owner": "Keiichiro Ono",
+        "description": "keiono's portal"
+    },
+    "plugins": [
+        "./plugins/paginator.coffee"
+    ],
+    "require": {
+        "moment": "moment",
+        "_": "underscore",
+        "typogr": "typogr"
+    },
+    "jade": {
+        "pretty": true
+    },
+    "markdown": {
+        "smartLists": true,
+        "smartypants": true
+    },
+    "paginator": {
+        "perPage": 5
+    }
 }

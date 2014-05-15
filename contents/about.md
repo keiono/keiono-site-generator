@@ -2,20 +2,16 @@
 view: none
 ---
 
-Wintersmith is made by [Johan Nordberg][1] and licensed under the [MIT-license][2].
-This footer text can be edited in about.md
+Keiichiro Ono is a software engineer working at [UCSD Trey Ideker Lab][1] and his main project is [Cytoscape][2].
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
+__This web site is still under development__
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-dolore eu fugiat nulla pariatur.
+* [Linked-in][3]
+* [Twitter][4] (Mostly Japanese)
+* [Google+][5]
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-deserunt mollit anim id est laborum.
-
-
-[1]: http://johan-nordberg.com
-[2]: http://opensource.org/licenses/MIT
+[1]: http://idekerlab.ucsd.edu/Pages/default.aspx
+[2]: http://www.cytoscape.org/
+[3]: https://www.linkedin.com/in/keiono
+[4]: https://twitter.com/c_z
+[5]: https://www.google.com/+KeiichiroOno
